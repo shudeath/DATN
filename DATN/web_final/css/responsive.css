@@ -1,0 +1,5 @@
+@media (max-with: 1023px) {
+    .navbar-brand {
+        display: none;
+    }
+}
